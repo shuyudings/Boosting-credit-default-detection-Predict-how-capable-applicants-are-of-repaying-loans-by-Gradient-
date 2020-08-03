@@ -1,2 +1,2 @@
-# Boosting-credit-default-detection-Predict-how-capable-applicants-are-of-repaying-loans-by-Gradient-
+# Loan Default Risk Prediction-
 CS7641 Project
